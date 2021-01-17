@@ -17,4 +17,5 @@ Using data science to predict earthquakes is a challenging problem which researc
 Airline Safety study present the statistics of the airline fatalities and compare that with the vehicle crash report. The report illustrates that there has been significant drop in airline fatalities after 1999. Multiple metrics is created to support the study and its finding. Study and reports confirmed there has been significant drop in airline fatalities since 1999. Overall, flight incidents or fatalities are at a declining rate with the advancement of time and technology
 Vehicle crash/fatalities are significantly higher compare to the air travel. The line chart shows the no of airline accidents has been significantly reduced after 1999 which strongly suggest advances in aircraft and airport design, better air traffic control, and improved pilot training.
 Comparison of the airline travel incident with the road fatalities/incident found airline to be extremely safe. It provides an overview and the purpose of the study with the scope for the study. 
+![airline safety](https://github.com/saroz271/Saroj_Portfolio/blob/main/images/airline.png.jpg)
 
