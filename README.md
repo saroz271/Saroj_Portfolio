@@ -1,5 +1,7 @@
-#                               Saroj_Portfolio
-#--- 	Soccer 	Runner	Data 
+#                               
+- Soccer  
+- Runner	
+- Data 
 
 Hi,
 My name is Saroj Raut and I currently live in Bay area. I have been working in various domain such as banking, financial, healthcare, and oil and gas. I am currently working as a data analyst here in San Francisco. I have earned my master’s in data science in March of 2021. I like to solve problems and take on new challenges. 
